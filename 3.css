@@ -1,0 +1,15 @@
+p{
+    font-size: 36px;
+    font-family: cursive;
+    font-weight: 900;
+    display: inline-block;
+    text-align: right;
+}
+img{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+body{
+    background-color: aqua;
+}

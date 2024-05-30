@@ -1,0 +1,21 @@
+article{
+    display: inline-block;
+
+}
+    p{
+font-size: 23px;
+font-weight: 900;
+font-family: cursive;
+    }
+    
+.image-1
+{
+    animation-name: dima;
+    animation-duration: 4000ms;
+    animation-iteration-count: infinite;
+
+}
+@keyframes dima {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+}
